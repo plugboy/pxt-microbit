@@ -119,5 +119,10 @@
   "name": "Sunfounder Sloth",
   "url":"/pkg/sunfounder/pxt-sloth",
   "cardType": "package"
+  }, {
+  "name": "Pimoroni Scrollbit",
+  "url":"/pkg/pimoroni/pxt-scrollbit",
+  "cardType": "package"
 }]
+
 ```
