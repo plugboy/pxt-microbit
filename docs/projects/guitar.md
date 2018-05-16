@@ -4,7 +4,7 @@
 
 ## ~avatar avatar
 
-Make a @boardname@ guitar with this guided tutorial!
+Test Make a @boardname@ guitar with this guided tutorial!
 
 ## ~
 
